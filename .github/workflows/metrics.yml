@@ -22,10 +22,10 @@ jobs:
 
           template: classic
           base: header, metadata
-          base_indepth: yes
           config_timezone: Europe/Berlin
           
           plugin_introduction: yes
+          plugin_introduction_title: yes
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -41,8 +41,5 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           
-          plugin_starlists: yes
-          plugin_starlists_limit: 2
-          plugin_starlists_limit_languages: 8
-          plugin_starlists_limit_repositories: 2
-          plugin_starlists_shuffle_repositories: yes
+          plugin_stars: yes
+          plugin_stars_limit: 4
