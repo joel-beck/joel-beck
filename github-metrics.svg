@@ -1329,7 +1329,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                                     </svg>
                                     <div class="name">
                                         <span>Gruntfuggly/todo-tree</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use ripgrep to find TODO tags and display the results in a tree view</div>
@@ -1379,7 +1379,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jul 2022, 18:22:18 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 29 Jul 2022, 19:18:35 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
