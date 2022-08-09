@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -75,7 +75,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    9 Languages
+                    13 Languages
                 </h2>
             </section>
             <section class="column">
@@ -85,14 +85,14 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="409.06498061567" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="409.06498061567" y="0" width="30.00850248210265" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="439.0734830977727" y="0" width="7.742707600698336" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.816190698471" y="0" width="4.548653714679415" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="451.3648444131504" y="0" width="3.351487246178533" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="454.71633165932894" y="0" width="2.3948032653212104" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="457.1111349246502" y="0" width="1.84379554953794" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.9549304741881" y="0" width="1.045069525811921" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.14394900418154" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="308.14394900418154" y="0" width="95.60247007960204" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="403.74641908378356" y="0" width="22.598721165763568" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="426.34514024954717" y="0" width="17.332230634385258" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="443.67737088393244" y="0" width="10.014550662666254" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.6919215465987" y="0" width="2.523928870231799" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="456.2158504168305" y="0" width="1.980677674761875" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.19652809159237" y="0" width="1.8034719084076758" height="8" fill="#3D6117"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -103,15 +103,21 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Python
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Jupyter Notebook
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        Python
+                        PHP
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -127,21 +133,15 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TeX
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        CSS
+                        TeX
                     </div>
                 </div>
             </section>
@@ -1413,7 +1413,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2022, 21:15:00 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 9 Aug 2022, 22:15:58 (timezone Europe/Berlin) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
