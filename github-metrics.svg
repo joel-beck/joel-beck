@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -85,14 +85,14 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.0293098038942" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="308.0293098038942" y="0" width="95.58967186346098" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="403.6189816673552" y="0" width="22.590313733684074" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="426.20929540103924" y="0" width="17.325782501733155" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="443.5350779027724" y="0" width="10.135400217422363" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.6704781201948" y="0" width="2.522989889641069" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="456.1934680098359" y="0" width="2.003731029792287" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.1971990396282" y="0" width="1.8028009603718997" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.9568723061089" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="312.9568723061089" y="0" width="92.49023155648086" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="405.44710386258976" y="0" width="21.85783576228232" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="427.3049396248721" y="0" width="16.764003937281682" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="444.0689435621538" y="0" width="9.806765676170613" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.87570923832436" y="0" width="2.441183388942682" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="456.31689262726707" y="0" width="1.9387611999245176" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="458.25565382719157" y="0" width="1.7443461728084433" height="8" fill="#3D6117"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1199,7 +1199,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                                     </svg>
                                     <div class="name">
                                         <span>beatrizmilz/resume</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beatriz Milz's Resume/CV (in English)</div>
@@ -1240,7 +1240,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                                     </svg>
                                     <div class="name">
                                         <span>aaron-lohmann/SVARnarrsign</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Implementation of narrative restriction identification of SVAR models.</div>
@@ -1293,7 +1293,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                                     </svg>
                                     <div class="name">
                                         <span>chrisgrieser/shimmering-obsidian</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Alfred Workflow for various enhancements of Obsidian.</div>
@@ -1373,7 +1373,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        537
+                                        538
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1396,7 +1396,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Aug 2022, 22:15:38 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 15 Aug 2022, 23:13:25 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
