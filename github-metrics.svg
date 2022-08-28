@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 24 repositories
+                            Contributed to 25 repositories
                         </div>
                     </section>
                 </div>
@@ -85,14 +85,14 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="312.93405755631983" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="312.93405755631983" y="0" width="91.94633838064433" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="404.8803959369642" y="0" width="21.689612856695636" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="426.5700087936598" y="0" width="16.634984327002496" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="443.20499312066227" y="0" width="10.691844271327694" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.89683739198995" y="0" width="2.422395482984191" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="456.31923287497415" y="0" width="1.9347182888057544" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="458.2539511637799" y="0" width="1.7460488362200326" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="209.88931323533694" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="209.88931323533694" y="0" width="153.719645498091" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="363.608958733428" y="0" width="61.66971395800889" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="425.2786726914369" y="0" width="14.547531139249251" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="439.8262038306861" y="0" width="11.157320054391228" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="450.9835238850773" y="0" width="6.094098076589053" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.0776219616664" y="0" width="1.6247350265364753" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="458.7023569882029" y="0" width="1.2976430117971516" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -100,6 +100,12 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        JavaScript
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -121,9 +127,9 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
-                        JavaScript
+                        CSS
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -136,12 +142,6 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                             <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Shell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3D6117" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TeX
                     </div>
                 </div>
             </section>
@@ -1383,7 +1383,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Aug 2022, 23:14:50 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 29 Aug 2022, 00:14:21 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
