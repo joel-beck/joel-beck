@@ -31,11 +31,11 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -85,14 +85,14 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.70224979798223" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="226.70224979798223" y="0" width="159.5748825896679" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="386.2771323876501" y="0" width="46.94901818026653" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="433.22615056791665" y="0" width="11.060213298770293" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="444.286363866687" y="0" width="8.482699810916694" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="452.76906367760364" y="0" width="4.996693042321058" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.7657567199247" y="0" width="1.2352553691391508" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="459.00101208906386" y="0" width="0.9989879109361625" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="226.6962073195012" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="226.6962073195012" y="0" width="159.57062931121555" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="386.26683663071674" y="0" width="46.9477668101001" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="433.21460344081686" y="0" width="11.059918501956794" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="444.2745219427737" y="0" width="8.482473714655566" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="452.75699565742923" y="0" width="5.008820613589236" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.7658162710185" y="0" width="1.2352224448783937" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="459.00103871589687" y="0" width="0.9989612841031247" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1379,7 +1379,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Sept 2022, 23:13:25 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 3 Sept 2022, 00:18:39 (timezone Europe/Berlin) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
