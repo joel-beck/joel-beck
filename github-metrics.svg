@@ -40,7 +40,7 @@
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
@@ -85,14 +85,14 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.6328761038092" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="236.6328761038092" y="0" width="162.08795603656728" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="398.72083214037644" y="0" width="33.91367212969649" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="432.6345042700729" y="0" width="11.231138102848082" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="443.865642372921" y="0" width="8.61379165915373" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="452.4794340320747" y="0" width="5.213413868181084" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.6928479002558" y="0" width="1.2543450355183356" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="458.9471929357742" y="0" width="1.0528070642258047" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="236.6280456039731" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="236.6280456039731" y="0" width="162.08464725776207" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="398.7126928617352" y="0" width="33.92144252256536" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="432.6341353843006" y="0" width="11.23090883626578" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="443.8650442205664" y="0" width="8.613615821713546" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="452.4786600422799" y="0" width="5.213307444275623" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.69196748655554" y="0" width="1.2543194299744729" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="458.94628691653" y="0" width="1.0537130834700168" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1401,7 +1401,7 @@ I am a masters student in Applied Statistics at the University of Göttingen, wo
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2022, 14:33:35 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Sept 2022, 15:50:39 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
