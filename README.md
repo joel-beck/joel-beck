@@ -21,4 +21,4 @@ My name is Joel, I am currently enrolled in the master's program of Applied Stat
 - 📦 I enjoy developing custom packages in R and Python to organize new software
 - 🌱 Aspiring to become a Full-Stack Data Scientist I am continuously learning new skills including SQL, Bash and DevOps tools & best practices
 -  Throughout the last year I developed a passion for all kinds of automation software in the Apple ecosystem to level up my workflow
-- ✉️ Reach out to me on [Linkedin](https://www.linkedin.com/in/joelbeck07) and on Twitter @joelbeck07
+- ✉️ Reach out to me on [Linkedin](https://www.linkedin.com/in/joelbeck07) and [Twitter](https://twitter.com/joelbeck07)
