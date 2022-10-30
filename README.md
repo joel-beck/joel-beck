@@ -12,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome ☀️
+
+My name is Joel, I am currently enrolled in the master's program of Applied Statistics at the University of Göttingen.
+
+- 👨‍💻 In my primary role, I analyze and visualize data to build Machine Learning models with R and Python
+- 📦 I enjoy developing custom packages in R and Python to organize new software
+- 🌱 Aspiring to become a Full-Stack Data Scientist I am continuously learning new skills including SQL, Bash and DevOps tools & best practices
+-  Throughout the last year I developed a passion for all kinds of automation software in the Apple ecosystem to improve my workflow
+- ✉️ Reach out to me on [Linkedin](https://www.linkedin.com/in/joelbeck07) and Twitter @joelbeck07
