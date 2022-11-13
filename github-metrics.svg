@@ -41,7 +41,7 @@
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
@@ -85,14 +85,14 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.46469796554436" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="256.46469796554436" y="0" width="167.8884912148323" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="424.35318918037666" y="0" width="11.624696754764699" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="435.9778859351414" y="0" width="8.819287372687807" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="444.7971733078292" y="0" width="7.748340269850614" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.54551357767986" y="0" width="5.022893835600526" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.56840741328034" y="0" width="1.298299471542207" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="458.8667068848226" y="0" width="1.1332931151774872" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="256.4646940586214" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="256.4646940586214" y="0" width="167.88848865725848" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="424.3531827158799" y="0" width="11.6246965776768" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="435.9778792935567" y="0" width="8.819287238336853" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="444.7971665318936" y="0" width="7.748340151814218" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.5455066837078" y="0" width="5.022900766614851" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.56840745032264" y="0" width="1.298299451764218" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="458.8667069020869" y="0" width="1.1332930979131661" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1161,10 +1161,10 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-8.5, 9.736842105263158)">
-                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.263157894736842 0,2.263157894736842 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.263157894736842 1.7,3.263157894736842 z"/>
+                            <g transform="translate(-8.5, 9.421052631578949)">
+                                <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5789473684210527 0,2.5789473684210527 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5789473684210527 1.7,3.5789473684210527 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.368421052631579)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1192,7 +1192,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                                     </svg>
                                     <div class="name">
                                         <span>patrickmineault/true-neutral-cookiecutter</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A minimalist cookiecutter for research and data science projects</div>
@@ -1389,7 +1389,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2022, 10:14:50 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 13 Nov 2022, 11:15:23 (timezone Europe/Berlin) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
