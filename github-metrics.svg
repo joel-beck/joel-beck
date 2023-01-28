@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -85,14 +85,14 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.1730259230064" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="269.1730259230064" y="0" width="156.697929438085" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="425.87095536109143" y="0" width="10.846519166478533" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="436.71747452756995" y="0" width="8.228908808595985" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="444.946383336166" y="0" width="7.798803980844032" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.74518731701" y="0" width="4.8702387059151135" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="457.61542602292513" y="0" width="1.2899352539949807" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="458.90536127692013" y="0" width="1.0946387230799284" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="269.1721229846602" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="269.1721229846602" y="0" width="156.69894686198575" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="425.8710698466459" y="0" width="10.846482781933515" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="436.7175526285794" y="0" width="8.22888120479993" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="444.9464338333794" y="0" width="7.798777819830516" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="452.7452116532099" y="0" width="4.87022236874586" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="457.61543402195576" y="0" width="1.289930926919483" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="458.9053649488752" y="0" width="1.0946350511247798" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1384,7 +1384,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2023, 19:14:27 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 28 Jan 2023, 20:09:37 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
