@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -85,14 +85,14 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.47616471103356" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="323.47616471103356" y="0" width="82.07358796383417" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.5497526748677" y="0" width="40.93213302247969" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="446.4818856973474" y="0" width="4.848637008955279" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="451.33052270630265" y="0" width="3.5372329578064416" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.8677556641091" y="0" width="2.9227039703154816" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.79045963442456" y="0" width="1.5695892709804564" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.36004890540505" y="0" width="0.6399510945949183" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.4739878630275" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="323.4739878630275" y="0" width="82.07303564577862" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.54702350880615" y="0" width="40.931857567772745" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="446.4788810765789" y="0" width="4.848604379825358" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="451.32748545640425" y="0" width="3.540304745383632" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.8677902017879" y="0" width="2.9226843018421773" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.7904745036301" y="0" width="1.5695787083559183" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.360053211986" y="0" width="0.639946788014044" height="8" fill="#198CE7"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1209,7 +1209,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                                     </svg>
                                     <div class="name">
                                         <span>danielnsilva/semanticscholar</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Semantic Scholar Academic Graph API client library for Python</div>
@@ -1412,7 +1412,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2023, 17:18:33 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Mar 2023, 18:12:31 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
