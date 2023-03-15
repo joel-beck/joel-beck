@@ -85,14 +85,14 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.4739878630275" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="323.4739878630275" y="0" width="82.07303564577862" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="405.54702350880615" y="0" width="40.931857567772745" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="446.4788810765789" y="0" width="4.848604379825358" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="451.32748545640425" y="0" width="3.540304745383632" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.8677902017879" y="0" width="2.9226843018421773" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.7904745036301" y="0" width="1.5695787083559183" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="459.360053211986" y="0" width="0.639946788014044" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="323.47419689142185" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="323.47419689142185" y="0" width="82.07308868124827" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="405.54728557267015" y="0" width="40.93188401787627" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="446.4791695905464" y="0" width="4.848607512986065" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="451.32777710353247" y="0" width="3.5400097818292626" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.86778688536174" y="0" width="2.9226861904762864" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.79047307583807" y="0" width="1.5695797226152703" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="459.3600527984533" y="0" width="0.6399472015466761" height="8" fill="#198CE7"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1209,7 +1209,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                                     </svg>
                                     <div class="name">
                                         <span>danielnsilva/semanticscholar</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Unofficial Semantic Scholar Academic Graph API client library for Python</div>
@@ -1262,7 +1262,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                                     </svg>
                                     <div class="name">
                                         <span>timhor/obsidian-editor-shortcuts</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obsidian plugin to add keyboard shortcuts commonly found in code editors such as Visual Studio Code (vscode) or Sublime Text</div>
@@ -1315,7 +1315,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                                     </svg>
                                     <div class="name">
                                         <span>rioj7/select-by</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Visual Studio Code extension to select text by criteria like Regular Expressions</div>
@@ -1412,7 +1412,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Mar 2023, 20:11:07 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Mar 2023, 21:14:01 (timezone Europe/Berlin) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
