@@ -85,14 +85,14 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.7636371612897" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="386.7636371612897" y="0" width="48.940423968134155" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="435.70406112942385" y="0" width="10.750172117051534" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.4542332464754" y="0" width="5.797263259052163" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="452.25149650552754" y="0" width="3.4945252269661293" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.74602173249366" y="0" width="3.017698172706255" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.7637199051999" y="0" width="0.7681772474516333" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="459.5318971526515" y="0" width="0.4681028473484534" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.7597011101629" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="386.7597011101629" y="0" width="48.93992590680575" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="435.69962701696863" y="0" width="10.754744083289651" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="446.4543711002583" y="0" width="5.797204260939646" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="452.2515753611979" y="0" width="3.4944896635660694" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.746065024764" y="0" width="3.017667461922842" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.7637324866868" y="0" width="0.7681694297960167" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="459.5319019164828" y="0" width="0.46809808351710336" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1235,7 +1235,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        599
+                                        600
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1417,7 +1417,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Mar 2023, 19:10:58 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 30 Mar 2023, 20:14:08 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
