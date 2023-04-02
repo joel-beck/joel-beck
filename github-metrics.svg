@@ -85,14 +85,14 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.75481033974916" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="386.75481033974916" y="0" width="48.93930703689508" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="435.6941173766443" y="0" width="10.760425014885778" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="446.45454239153" y="0" width="5.79713095238397" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="452.251673343914" y="0" width="3.4944454739914868" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="455.7461188179055" y="0" width="3.0176293020041665" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="458.7637481199097" y="0" width="0.768159715908274" height="8" fill="#198CE7"/>
-                    <rect mask="url(#languages-bar)" x="459.53190783581795" y="0" width="0.4680921641820459" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="386.7528237184545" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="386.7528237184545" y="0" width="48.93905565315814" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="435.6918793716127" y="0" width="10.762732598094047" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="446.4546119697067" y="0" width="5.797101174593262" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="452.25171314429997" y="0" width="3.494427524273459" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="455.7461406685734" y="0" width="3.017613801520474" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="458.7637544700939" y="0" width="0.7681557701462344" height="8" fill="#198CE7"/>
+                    <rect mask="url(#languages-bar)" x="459.53191024024017" y="0" width="0.4680897597598219" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1339,7 +1339,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
                                     </svg>
                                     <div class="name">
                                         <span>timhor/obsidian-editor-shortcuts</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Obsidian plugin to add keyboard shortcuts commonly found in code editors such as Visual Studio Code (vscode) or Sublime Text</div>
@@ -1389,7 +1389,7 @@ I am a master's student in Applied Statistics at the University of Göttingen, w
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2023, 21:09:10 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 2 Apr 2023, 22:11:40 (timezone Europe/Berlin) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
