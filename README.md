@@ -1,7 +1,7 @@
 
 Welcome ☀️
 
-My name is Joel. I am currently enrolled in the master's program of Applied Statistics at the University of Göttingen
+My name is Joel. I am currently enrolled in the master's program of Applied Statistics at the University of Göttingen.
 
 - 👨‍💻 As a student, I build software primarily for Data Analysis and Machine Learning in Python and R
 - 📦 Following best practices of the community, I greatly enjoy developing packages with state-of-the-art tooling
