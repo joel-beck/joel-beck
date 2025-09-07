@@ -1,6 +1,6 @@
 Welcome ☀️
 
-I'm Joel, a professional Data Scientist & Product Manager currently working in fraud detection.
+I'm Joel, currently working as Data Scientist & Product Manager in fraud detection at Germany’s largest motor insurance company. 
 
 - 👨‍💻 In my day job, I provide business value from data by building Data Pipelines and deploying Machine Learning models
 - 📦 Staying up-to-date with the community, I enjoy developing open-source packages and applications
